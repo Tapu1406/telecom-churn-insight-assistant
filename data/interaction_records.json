@@ -1,0 +1,110 @@
+[
+  {
+    "customer_id": "CUST-1001",
+    "record_type": "ticket",
+    "record_id": "TKT-5521",
+    "date": "2026-09-20",
+    "source_system": "CRM",
+    "verified": true,
+    "content": "Dropped-call complaint from the same cell/location."
+  },
+  {
+    "customer_id": "CUST-1001",
+    "record_type": "ticket",
+    "record_id": "TKT-5540",
+    "date": "2026-09-23",
+    "source_system": "CRM",
+    "verified": true,
+    "content": "Dropped-call complaint from the same cell/location."
+  },
+  {
+    "customer_id": "CUST-1001",
+    "record_type": "ticket",
+    "record_id": "TKT-5562",
+    "date": "2026-09-28",
+    "source_system": "CRM",
+    "verified": true,
+    "content": "Dropped-call complaint from the same cell/location."
+  },
+  {
+    "customer_id": "CUST-1001",
+    "record_type": "usage",
+    "record_id": "USG-1001@2026-09",
+    "date": "2026-09-30",
+    "source_system": "UsagePlatform",
+    "verified": true,
+    "content": "Data usage down 35% month on month."
+  },
+  {
+    "customer_id": "CUST-1001",
+    "record_type": "call",
+    "record_id": "CALL-9001",
+    "date": "2026-09-29",
+    "source_system": "CallPlatform",
+    "verified": true,
+    "content": "Customer contacted support again about dropped calls."
+  },
+  {
+    "customer_id": "CUST-1001",
+    "record_type": "note",
+    "record_id": "NOTE-77",
+    "date": "2026-09-30",
+    "source_system": "CRM",
+    "verified": false,
+    "content": "Draft agent note; not verified."
+  },
+  {
+    "customer_id": "CUST-1002",
+    "record_type": "ticket",
+    "record_id": "TKT-6610",
+    "date": "2026-09-18",
+    "source_system": "CRM",
+    "verified": true,
+    "content": "Roaming double charge of Rs 1,240 marked resolved."
+  },
+  {
+    "customer_id": "CUST-1002",
+    "record_type": "call",
+    "record_id": "CALL-8821",
+    "date": "2026-09-25",
+    "source_system": "CallPlatform",
+    "verified": true,
+    "content": "Customer says roaming charge is still on the bill."
+  },
+  {
+    "customer_id": "CUST-1003",
+    "record_type": "ticket",
+    "record_id": "TKT-7101",
+    "date": "2026-09-26",
+    "source_system": "CRM",
+    "verified": true,
+    "content": "One slow-data complaint."
+  },
+  {
+    "customer_id": "CUST-1004",
+    "record_type": "call",
+    "record_id": "CALL-9034",
+    "date": "2026-09-27",
+    "source_system": "CallPlatform",
+    "verified": true,
+    "content": "Customer mentions competitor offer, requests port-out, and asks for 50% off for 6 months."
+  },
+  {
+    "customer_id": "CUST-1005",
+    "record_type": "metadata",
+    "record_id": "META-1005",
+    "date": "2026-09-30",
+    "source_system": "CRM",
+    "verified": true,
+    "content": "Plan metadata only; no interactions in 90 days."
+  },
+  {
+    "customer_id": "CUST-1006",
+    "record_type": "call",
+    "record_id": "CALL-1006",
+    "date": "2026-09-20",
+    "source_system": "CallPlatform",
+    "verified": true,
+    "content": "Customer asks for a review of their current plan; no specific dissatisfaction recorded."
+  }
+]

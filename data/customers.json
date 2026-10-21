@@ -1,0 +1,38 @@
+[
+  {
+    "customer_id": "CUST-1001",
+    "plan": "Postpaid Rs 599",
+    "tenure_years": 4,
+    "usage_trend_percent": -35
+  },
+  {
+    "customer_id": "CUST-1002",
+    "plan": "Postpaid Rs 999",
+    "tenure_years": 2,
+    "usage_trend_percent": 0
+  },
+  {
+    "customer_id": "CUST-1003",
+    "plan": "Prepaid Rs 299",
+    "tenure_years": 1,
+    "usage_trend_percent": 0
+  },
+  {
+    "customer_id": "CUST-1004",
+    "plan": "Postpaid family Rs 1,499",
+    "tenure_years": 6,
+    "usage_trend_percent": 0
+  },
+  {
+    "customer_id": "CUST-1005",
+    "plan": "Postpaid Rs 799",
+    "tenure_years": 3,
+    "usage_trend_percent": null
+  },
+  {
+    "customer_id": "CUST-1006",
+    "plan": "Postpaid Rs 499",
+    "tenure_years": 2,
+    "usage_trend_percent": -5
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "doc_id": "RET-POL",
+    "date": "2026-01-01",
+    "verified": true,
+    "content": "Retention action catalog: agent may give a bill credit up to Rs 500 or a plan discount up to 20% for 3 months; anything above needs a supervisor."
+  },
+  {
+    "doc_id": "NET-ESC",
+    "date": "2026-01-01",
+    "verified": true,
+    "content": "Raise a network escalation when there are 3 or more coverage complaints from one location in 30 days."
+  },
+  {
+    "doc_id": "BILL-POL",
+    "date": "2026-01-01",
+    "verified": true,
+    "content": "Disputed charges are corrected after verification; correction is confirmed to the customer within 48 hours."
+  },
+  {
+    "doc_id": "OFFER-FEST",
+    "date": "2026-09-25",
+    "expires": "2026-10-08",
+    "verified": true,
+    "content": "Festive retention offer: 2 months at half rental, valid 2026-09-25 to 2026-10-08."
+  }
+]
